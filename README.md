@@ -33,5 +33,10 @@ NO cubre: Venta de entradas, pagos, inventario, plataformas de streaming, inform
 
 ## Estructura del proyecto
 
+/data
+    Datos utilizados en el proyecto.
 
+/notebooks
+    Notebooks utilizados para exploración, limpieza,
+    análisis y minería de datos.
 
