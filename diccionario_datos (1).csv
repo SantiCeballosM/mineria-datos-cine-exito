@@ -1,0 +1,21 @@
+columna,tipo_de_dato,significado,fuente
+tconst,string,Identificador único de la película en IMDb,IMDb
+titleType,object,Tipo de título registrado en IMDb,IMDb
+primaryTitle,object,Título principal de la película en IMDb,IMDb
+startYear,float64,Año de inicio o lanzamiento registrado en IMDb,IMDb
+runtimeMinutes,object,Duración de la película en minutos según IMDb,IMDb
+genres_imdb,object,Géneros registrados para la película en IMDb,IMDb
+averageRating,float64,Calificación promedio de la película en IMDb,IMDb
+numVotes,int64,Cantidad de votos registrados en IMDb,IMDb
+id,int64,Identificador único de la película en TMDB,TMDB
+title,object,Título de la película en TMDB,TMDB
+vote_average,float64,Calificación promedio registrada en TMDB,TMDB
+vote_count,int64,Cantidad de votos registrados en TMDB,TMDB
+status,object,Estado de la película registrado en TMDB,TMDB
+release_date,object,Fecha de lanzamiento registrada en TMDB,TMDB
+revenue,int64,Ingresos o recaudación registrada para la película en TMDB,TMDB
+runtime,int64,Duración de la película en minutos según TMDB,TMDB
+budget,int64,Presupuesto registrado para la película en TMDB,TMDB
+imdb_id,string,Identificador IMDb asociado dentro de TMDB,TMDB
+popularity,float64,Indicador de popularidad registrado por TMDB,TMDB
+genres_tmdb,object,Géneros registrados para la película en TMDB,TMDB
